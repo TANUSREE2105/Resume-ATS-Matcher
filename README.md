@@ -5,11 +5,13 @@ A Python-based Resume Screening System that compares resumes with job descriptio
 
 This project simulates a basic Applicant Tracking System (ATS).
 
+
 It compares:
 
 A Resume
 
 A Job Description
+
 
 And calculates:
 
@@ -19,11 +21,13 @@ Matched Keywords
 
 Missing Keywords
 
+
 🛠️ Technologies Used
 
 Python
 
 Regular Expressions
+
 
 📊 How It Works
 
@@ -35,8 +39,11 @@ Finds matching words
 
 Calculates percentage score
 
+
 ▶️ How to Run
+
 python main.py
+
 
 💡 Future Improvements
 
